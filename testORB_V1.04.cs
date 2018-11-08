@@ -185,7 +185,7 @@ public class testORB_V1.04 : MonoBehaviour
         return goodvalue;
     }
 
-    public string url = "file:///C:\\Users\\yeom4\\OneDrive\\document\\OpenCV_Test_1\\Assets\\Card\\TEST.jpg";
+    public string url = "file:///C:\\Users\\yeom4\\OneDrive\\document\\OpenCV_Test_1\\Assets\\StreamingAssets\\TEST.jpg";
 
     void Start()
     {
@@ -233,8 +233,8 @@ public class testORB_V1.04 : MonoBehaviour
 
         // ORB 알고리즘을 위해 detector,extractor 객체를 생성한다. 
         //500, 1.2f, 8, 31, 0, 2, ORB.HARRIS_SCORE,31
-        detector = ORB.create(500, 1.2f, 8, 31, 0, 2, ORB.HARRIS_SCORE, 31);
-        extractor = ORB.create(500, 1.2f, 8, 31, 0, 2, ORB.HARRIS_SCORE, 31);
+        detector = ORB.create();
+        extractor = ORB.create();
 
         // KeyPoint를 위한 Matrix를 생성. 
         keypoints1 = new MatOfKeyPoint();
