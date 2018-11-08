@@ -8,7 +8,7 @@ using System.IO;
 #endif
 using OpenCVForUnity;
 
-public class testORB_V3 : MonoBehaviour
+public class testORB_V1.03 : MonoBehaviour
 {
     // Use this for initialization
     Texture2D imgTexture;
