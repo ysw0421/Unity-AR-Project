@@ -11,7 +11,7 @@ using OpenCVForUnity;
 
 //manual화 화요일날
 
-public class testORB : MonoBehaviour
+public class testORB_V1.01 : MonoBehaviour
 {
     // Use this for initialization
     Texture2D imgTexture;
