@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class plane_control : MonoBehaviour {
+public class plane_control_V1.01 : MonoBehaviour {
     /* 
      * 이 컴포넌트는 Lion Card Game Object에 붙어있습니다.
      * 1. Quad에서 나오는 4개의 2D좌표를 받아옵니다.
