@@ -14,7 +14,7 @@ You should have AFRICAN ANIMALS PACK.zip file which is the material of the Lione
 
 ## Version 1. Problem
 
-1. Tracker doesn't exist.
+1. Tracker doesn't exist. So unstable.
 2. Crash problem
 3. Non-scalable code</br>
    Readability is also low.
