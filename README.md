@@ -1,4 +1,3 @@
-<html>
 # Unity-AR-Project
 
 We need OpenCV for Unity.unitypackage on this project </br>
@@ -7,11 +6,6 @@ I have OpenCV for Unity.unitypackage on my Google Drive</br>
 You should have AFRICAN ANIMALS PACK.zip file which is the material of the Lioness file.</br>
 
 <img src="test.jpg" width="20%" height="20%"></img>
-<video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
 
 ## Version 1. Completed function
 
@@ -25,4 +19,4 @@ You should have AFRICAN ANIMALS PACK.zip file which is the material of the Lione
 2. Crash problem
 3. Non-scalable code</br>
    Readability is also low.
-</html>
+
